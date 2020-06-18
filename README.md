@@ -1,3 +1,8 @@
+
+# new note
+
+使用webpack打包， 在[./react-webpack](https://github.com/helloskynet/react-demos/tree/master/react-webpack)中
+
 This is a collection of simple demos of React.js.
 
 These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful library.
